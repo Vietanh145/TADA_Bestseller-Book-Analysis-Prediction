@@ -58,8 +58,8 @@ Sau làm sạch: **1.777 đầu sách**, trải trên **355 thể loại** và *
 
 | Mô hình | Mục đích | AUC | F1 (lớp bán chạy) |
 |---|---|---|---|
-| **Mô hình A — Random Forest** | Dự đoán trước khi nhập hàng (giá, giảm giá, rating, thể loại, NXB) | 0.81 | 0.55 |
-| **Mô hình B — Giám sát sớm** | Phát hiện sách đang "lên hit" dựa trên tín hiệu review/bình luận sau khi lên kệ | 0.98 | 0.85 |
+| **Mô hình A - Random Forest** | Dự đoán trước khi nhập hàng (giá, giảm giá, rating, thể loại, NXB) | 0.81 | 0.55 |
+| **Mô hình B - Giám sát sớm** | Phát hiện sách đang "lên hit" dựa trên tín hiệu review/bình luận sau khi lên kệ | 0.98 | 0.85 |
 
 Yếu tố ảnh hưởng lớn nhất đến khả năng bán chạy (Mô hình A): **Nhà xuất bản > Rating > Mức giảm giá > Giá bán > Thể loại > Số trang**.
 
@@ -80,4 +80,4 @@ Toàn bộ dữ liệu gốc, notebook, file Power BI (`.pbix`), slide thuyết 
 ## Tác giả
 
 **Nguyễn Việt Anh**
-— Rikkei Education x HUST, 2026
+- Rikkei Education x HUST, 2026
