@@ -1,4 +1,4 @@
-# 📚 TADA — Bestseller Book Analysis & Prediction
+# 📚 TADA - Bestseller Book Analysis & Prediction
 
 > Phân tích dữ liệu & xây dựng mô hình dự đoán sách bán chạy cho sàn thương mại điện tử chuyên sách **Tada**, phục vụ đội ngũ Category Management trong việc ra quyết định nhập hàng, định giá và khuyến mãi.
 
@@ -69,9 +69,9 @@ Yếu tố ảnh hưởng lớn nhất đến khả năng bán chạy (Mô hình
 
 ## 🛠️ Công nghệ sử dụng
 
-- **Python** — pandas, scikit-learn, matplotlib (làm sạch dữ liệu, EDA, Machine Learning)
-- **Power BI** — DAX, Power Query (dashboard vận hành)
-- **Google Colab** — môi trường phân tích chính
+- **Python** - pandas, scikit-learn, matplotlib (làm sạch dữ liệu, EDA, Machine Learning)
+- **Power BI** - DAX, Power Query (dashboard vận hành)
+- **Google Colab** - môi trường phân tích chính
 
 ## 📁 Cấu trúc dự án (Google Drive)
 
@@ -80,4 +80,4 @@ Toàn bộ dữ liệu gốc, notebook, file Power BI (`.pbix`), slide thuyết 
 ## 👤 Tác giả
 
 **Nguyễn Việt Anh**
-Capstone Project — Rikkei Education x HUST, 2026
+— Rikkei Education x HUST, 2026
